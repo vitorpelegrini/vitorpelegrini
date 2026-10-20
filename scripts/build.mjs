@@ -5,7 +5,7 @@
 //   GITHUB_TOKEN=... node scripts/build.mjs        (falls back to `gh auth token`)
 
 import { execSync } from "node:child_process";
-import { mkdirSync, renameSync, writeFileSync } from "node:fs";
+import { mkdirSync, readFileSync, renameSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -357,4 +357,10 @@ for (const [name, t] of Object.entries(THEMES)) {
   save(`stack-${name}.svg`, stack(t));
   save(`work-${name}.svg`, work(t));
 }
-console.log(`ok: ${fmt(s.total)} contributions, ${s.activeDays}/${s.dayCount} active days, streak ${s.current} (best ${s.best}), peak week ${s.peakWeek}, busiest day ${s.busiestDay}`);
+// A new address whenever the numbers change, so no cache keeps showing yesterday's header.
+const readme = join(OUT, "..", "README.md");
+const stamp = `${s.total}-${s.current}-${s.activeDays}`;
+const before = readFileSync(readme, "utf8");
+const after = before.replace(/assets\/header-(dark|light)\.svg(\?v=[\w-]+)?/g, `assets/header-$1.svg?v=${stamp}`);
+if (after !== before) save("../README.md", after);
+console.log(`ok:${fmt(s.total)} contributions, ${s.activeDays}/${s.dayCount} active days, streak ${s.current} (best ${s.best}), peak week ${s.peakWeek}, busiest day ${s.busiestDay}`);
