@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-label="Vitor Pelegrini, software engineer and founder of VSync Lab. 27 contributions in the last 12 months.">
+<title>Vitor Pelegrini, software engineer and founder of VSync Lab. 27 contributions in the last 12 months.</title>
+<style>
+  text { font-family: 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',Arial,sans-serif; }
+  .mono { font-family: 'Cascadia Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  .num { font-variant-numeric: tabular-nums; }
+  
+</style>
+
+  <rect x=".5" y=".5" width="1199" height="499" rx="22" fill="#fbfbfb" stroke="#e3e3e3"/>
+
+  <g>
+    <text x="56" y="92" font-size="14" font-weight="600" letter-spacing="2.2" fill="#0078d4">SOFTWARE ENGINEER  /  FOUNDER OF VSYNC LAB</text>
+    <text x="52" y="168" font-size="68" font-weight="700" letter-spacing="-1.5" fill="#141414">Vitor Pelegrini</text>
+    <text x="56" y="214" font-size="24" fill="#3b3b3b">Full-stack and native software,</text>
+    <text x="56" y="246" font-size="24" fill="#3b3b3b">from the database to the taskbar.</text>
+    <text x="56" y="296" font-size="15" fill="#6b6b6b" class="mono">~/guarapuava-pr/brasil $ <tspan fill="#16a34a">ship --with-tests</tspan></text>
+  </g>
+  
+  <g>
+    <rect x="708" y="56" width="436" height="236" rx="14" fill="#ffffff" stroke="#e3e3e3"/>
+    <circle cx="738" cy="93" r="5" fill="#0078d4"/>
+    <text x="752" y="99" font-size="18" font-weight="600" fill="#141414">Contributions</text>
+    <text x="1120" y="101" font-size="30" font-weight="600" fill="#141414" text-anchor="end" class="num">27</text>
+    <text x="752" y="126" font-size="14" fill="#6b6b6b">last 12 months, every repository</text>
+    <text x="1120" y="126" font-size="14" fill="#6b6b6b" text-anchor="end" class="num">▲ peak week 25</text>
+    <rect x="724" y="156" width="404" height="112" rx="8" fill="#fbfbfb"/>
+    <line x1="732" x2="1120" y1="216" y2="216" stroke="#e3e3e3" stroke-dasharray="2 4"/>
+    <defs>
+      <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#0078d4" stop-opacity=".32"/>
+        <stop offset="1" stop-color="#0078d4" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <path d="M732.0,260.0 C733.2,260.0 737.0,260.0 739.5,260.0 C741.9,260.0 744.4,260.0 746.9,260.0 C749.4,260.0 751.9,260.0 754.4,260.0 C756.9,260.0 759.4,260.0 761.8,260.0 C764.3,260.0 766.8,260.0 769.3,260.0 C771.8,260.0 774.3,260.0 776.8,260.0 C779.3,260.0 781.7,260.0 784.2,260.0 C786.7,260.0 789.2,260.0 791.7,260.0 C794.2,260.0 796.7,260.0 799.2,260.0 C801.6,260.0 804.1,260.0 806.6,260.0 C809.1,260.0 811.6,260.0 814.1,260.0 C816.6,260.0 819.1,260.0 821.5,260.0 C824.0,260.0 826.5,260.0 829.0,260.0 C831.5,260.0 834.0,260.0 836.5,260.0 C838.9,260.0 841.4,260.0 843.9,260.0 C846.4,260.0 848.9,260.0 851.4,260.0 C853.9,260.0 856.4,260.0 858.8,260.0 C861.3,260.0 863.8,260.0 866.3,260.0 C868.8,260.0 871.3,260.0 873.8,260.0 C876.3,260.0 878.7,260.0 881.2,260.0 C883.7,260.0 886.2,260.0 888.7,260.0 C891.2,260.0 893.7,260.0 896.2,260.0 C898.6,260.0 901.1,260.0 903.6,260.0 C906.1,260.0 908.6,260.0 911.1,260.0 C913.6,258.8 916.1,253.0 918.5,253.0 C921.0,253.0 923.5,258.8 926.0,260.0 C928.5,260.0 931.0,260.0 933.5,260.0 C935.9,260.0 938.4,260.0 940.9,260.0 C943.4,260.0 945.9,260.0 948.4,260.0 C950.9,260.0 953.4,260.0 955.8,260.0 C958.3,260.0 960.8,260.0 963.3,260.0 C965.8,260.0 968.3,260.0 970.8,260.0 C973.3,260.0 975.7,260.0 978.2,260.0 C980.7,260.0 983.2,260.0 985.7,260.0 C988.2,260.0 990.7,260.0 993.2,260.0 C995.6,260.0 998.1,260.0 1000.6,260.0 C1003.1,260.0 1005.6,260.0 1008.1,260.0 C1010.6,260.0 1013.1,260.0 1015.5,260.0 C1018.0,260.0 1020.5,260.0 1023.0,260.0 C1025.5,260.0 1028.0,260.0 1030.5,260.0 C1032.9,260.0 1035.4,260.0 1037.9,260.0 C1040.4,260.0 1042.9,260.0 1045.4,260.0 C1047.9,260.0 1050.4,260.0 1052.8,260.0 C1055.3,260.0 1057.8,260.0 1060.3,260.0 C1062.8,260.0 1065.3,260.0 1067.8,260.0 C1070.3,260.0 1072.7,260.0 1075.2,260.0 C1077.7,260.0 1080.2,260.0 1082.7,260.0 C1085.2,260.0 1087.7,260.0 1090.2,260.0 C1092.6,260.0 1095.1,260.0 1097.6,260.0 C1100.1,260.0 1102.6,260.0 1105.1,260.0 C1107.6,260.0 1110.1,260.0 1112.5,260.0 C1115.0,245.3 1118.8,186.7 1120.0,172.0 L1120,260 L732,260 Z" fill="url(#area)"/>
+    <path pathLength="1" d="M732.0,260.0 C733.2,260.0 737.0,260.0 739.5,260.0 C741.9,260.0 744.4,260.0 746.9,260.0 C749.4,260.0 751.9,260.0 754.4,260.0 C756.9,260.0 759.4,260.0 761.8,260.0 C764.3,260.0 766.8,260.0 769.3,260.0 C771.8,260.0 774.3,260.0 776.8,260.0 C779.3,260.0 781.7,260.0 784.2,260.0 C786.7,260.0 789.2,260.0 791.7,260.0 C794.2,260.0 796.7,260.0 799.2,260.0 C801.6,260.0 804.1,260.0 806.6,260.0 C809.1,260.0 811.6,260.0 814.1,260.0 C816.6,260.0 819.1,260.0 821.5,260.0 C824.0,260.0 826.5,260.0 829.0,260.0 C831.5,260.0 834.0,260.0 836.5,260.0 C838.9,260.0 841.4,260.0 843.9,260.0 C846.4,260.0 848.9,260.0 851.4,260.0 C853.9,260.0 856.4,260.0 858.8,260.0 C861.3,260.0 863.8,260.0 866.3,260.0 C868.8,260.0 871.3,260.0 873.8,260.0 C876.3,260.0 878.7,260.0 881.2,260.0 C883.7,260.0 886.2,260.0 888.7,260.0 C891.2,260.0 893.7,260.0 896.2,260.0 C898.6,260.0 901.1,260.0 903.6,260.0 C906.1,260.0 908.6,260.0 911.1,260.0 C913.6,258.8 916.1,253.0 918.5,253.0 C921.0,253.0 923.5,258.8 926.0,260.0 C928.5,260.0 931.0,260.0 933.5,260.0 C935.9,260.0 938.4,260.0 940.9,260.0 C943.4,260.0 945.9,260.0 948.4,260.0 C950.9,260.0 953.4,260.0 955.8,260.0 C958.3,260.0 960.8,260.0 963.3,260.0 C965.8,260.0 968.3,260.0 970.8,260.0 C973.3,260.0 975.7,260.0 978.2,260.0 C980.7,260.0 983.2,260.0 985.7,260.0 C988.2,260.0 990.7,260.0 993.2,260.0 C995.6,260.0 998.1,260.0 1000.6,260.0 C1003.1,260.0 1005.6,260.0 1008.1,260.0 C1010.6,260.0 1013.1,260.0 1015.5,260.0 C1018.0,260.0 1020.5,260.0 1023.0,260.0 C1025.5,260.0 1028.0,260.0 1030.5,260.0 C1032.9,260.0 1035.4,260.0 1037.9,260.0 C1040.4,260.0 1042.9,260.0 1045.4,260.0 C1047.9,260.0 1050.4,260.0 1052.8,260.0 C1055.3,260.0 1057.8,260.0 1060.3,260.0 C1062.8,260.0 1065.3,260.0 1067.8,260.0 C1070.3,260.0 1072.7,260.0 1075.2,260.0 C1077.7,260.0 1080.2,260.0 1082.7,260.0 C1085.2,260.0 1087.7,260.0 1090.2,260.0 C1092.6,260.0 1095.1,260.0 1097.6,260.0 C1100.1,260.0 1102.6,260.0 1105.1,260.0 C1107.6,260.0 1110.1,260.0 1112.5,260.0 C1115.0,245.3 1118.8,186.7 1120.0,172.0" fill="none" stroke="#0078d4" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="1120.0" cy="172.0" r="4.5" fill="#0078d4" stroke="#ffffff" stroke-width="2"/>
+  </g>
+
+  <g>
+    <rect x="40" y="348" width="1120" height="96" rx="14" fill="#ffffff" stroke="#e3e3e3"/>
+    <rect x="80" y="381" width="13" height="13" rx="2.5" fill="#0078d4"/><rect x="95" y="381" width="13" height="13" rx="2.5" fill="#0078d4"/><rect x="80" y="396" width="13" height="13" rx="2.5" fill="#0078d4"/><rect x="95" y="396" width="13" height="13" rx="2.5" fill="#0078d4"/>
+    <line x1="128" x2="128" y1="374" y2="418" stroke="#e3e3e3" stroke-width="1.5"/>
+    
+    <text x="150" y="378" font-size="13" font-weight="600" letter-spacing=".6" fill="#6b6b6b">2026</text>
+    <text x="150" y="406" class="num" fill="#141414"><tspan font-size="24" font-weight="600">27</tspan><tspan font-size="14" fill="#6b6b6b" dx="6">contributions</tspan></text>
+    <circle cx="154" cy="422" r="4" fill="#0078d4"/>
+    <text x="340" y="378" font-size="13" font-weight="600" letter-spacing=".6" fill="#6b6b6b">ACTIVE DAYS</text>
+    <text x="340" y="406" class="num" fill="#141414"><tspan font-size="24" font-weight="600">2</tspan><tspan font-size="14" fill="#6b6b6b" dx="6">/ 367</tspan></text>
+    <rect x="340" y="419" width="150" height="6" rx="3" fill="#e6e6e6"/>
+         <rect x="340" y="419" width="6.0" height="6" rx="3" fill="#16a34a"/>
+    <text x="530" y="378" font-size="13" font-weight="600" letter-spacing=".6" fill="#6b6b6b">STREAK</text>
+    <text x="530" y="406" class="num" fill="#141414"><tspan font-size="24" font-weight="600">1</tspan><tspan font-size="14" fill="#6b6b6b" dx="6">days / best 1</tspan></text>
+    <rect x="530" y="419" width="170" height="6" rx="3" fill="#e6e6e6"/>
+         <rect x="530" y="419" width="170.0" height="6" rx="3" fill="#c27803"/>
+    <text x="740" y="378" font-size="13" font-weight="600" letter-spacing=".6" fill="#6b6b6b">BUSIEST DAY</text>
+    <text x="740" y="406" class="num" fill="#141414"><tspan font-size="24" font-weight="600">25</tspan><tspan font-size="14" fill="#6b6b6b" dx="6">contributions</tspan></text>
+    <circle cx="744" cy="422" r="4" fill="#db2777"/>
+    <line x1="964" x2="964" y1="374" y2="418" stroke="#e3e3e3" stroke-width="1.5"/>
+    <text x="1130" y="392" font-size="15" fill="#141414" text-anchor="end">Guarapuava, PR</text>
+    <text x="1130" y="416" font-size="15" fill="#6b6b6b" text-anchor="end">Brasil</text>
+  </g>
+</svg>

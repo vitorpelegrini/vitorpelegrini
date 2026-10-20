@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="444" viewBox="0 0 1200 444" role="img" aria-label="VSync Lab: software, websites and automations, plus complete hardware services.">
+<title>VSync Lab: software, websites and automations, plus complete hardware services.</title>
+<style>
+  text { font-family: 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',Arial,sans-serif; }
+  .mono { font-family: 'Cascadia Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  .num { font-variant-numeric: tabular-nums; }
+  
+</style>
+
+  <rect x=".5" y=".5" width="1199" height="443" rx="22" fill="#1c1c1c" stroke="#333333"/>
+  <g>
+    <text x="40" y="58" font-size="30" font-weight="700" letter-spacing="-.5" fill="#ffffff">VSync Lab</text>
+    <text x="196" y="58" font-size="18" fill="#9a9a9a">Software, websites and automations, plus complete hardware services.</text>
+    <text x="1160" y="58" font-size="15" font-weight="600" fill="#4cc2ff" text-anchor="end">vsynclab.org  →</text>
+  </g>
+  
+  <g>
+    <rect x="40" y="104" width="544" height="300" rx="14" fill="#262626" stroke="#333333"/>
+    <rect x="40" y="104" width="4" height="300" rx="2" fill="#4cc2ff"/>
+    <text x="68" y="140" font-size="14" font-weight="600" letter-spacing="1.8" fill="#4cc2ff">SOFTWARE</text>
+    
+    <text x="68" y="180" font-size="20" font-weight="600" fill="#ffffff">Websites and online stores</text>
+    <text x="68" y="204" font-size="17" fill="#9a9a9a">integrated with stock, payments and support</text>
+    <text x="68" y="240" font-size="20" font-weight="600" fill="#ffffff">Custom systems</text>
+    <text x="68" y="264" font-size="17" fill="#9a9a9a">CRM, apps and dashboards built around the process</text>
+    <text x="68" y="300" font-size="20" font-weight="600" fill="#ffffff">Performance and SEO</text>
+    <text x="68" y="324" font-size="17" fill="#9a9a9a">fast to open, easy to find on Google</text>
+    <text x="68" y="360" font-size="20" font-weight="600" fill="#ffffff">AI assistants</text>
+    <text x="68" y="384" font-size="17" fill="#9a9a9a">on WhatsApp and the website, trained on the business</text>
+  </g>
+  <g>
+    <rect x="616" y="104" width="544" height="300" rx="14" fill="#262626" stroke="#333333"/>
+    <rect x="616" y="104" width="4" height="300" rx="2" fill="#4ade80"/>
+    <text x="644" y="140" font-size="14" font-weight="600" letter-spacing="1.8" fill="#4ade80">HARDWARE</text>
+    
+    <text x="644" y="180" font-size="20" font-weight="600" fill="#ffffff">Builds and upgrades</text>
+    <text x="644" y="204" font-size="17" fill="#9a9a9a">each part chosen for the job, tested under load</text>
+    <text x="644" y="240" font-size="20" font-weight="600" fill="#ffffff">Clean installs</text>
+    <text x="644" y="264" font-size="17" fill="#9a9a9a">backup, system, drivers and programs back in place</text>
+    <text x="644" y="300" font-size="20" font-weight="600" fill="#ffffff">Cleaning and maintenance</text>
+    <text x="644" y="324" font-size="17" fill="#9a9a9a">cooler, quieter, performance restored</text>
+    <text x="644" y="360" font-size="20" font-weight="600" fill="#ffffff">Business infrastructure</text>
+    <text x="644" y="384" font-size="17" fill="#9a9a9a">network, Wi-Fi, servers and backup, documented</text>
+  </g>
+</svg>

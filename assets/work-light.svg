@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="652" viewBox="0 0 1200 652" role="img" aria-label="Selected work: Health-benefits membership platform. CRM, member app for iOS and Android, partner portal and backend: billing, digital card, WhatsApp campaigns and reports for the whole company. AI engineering harness. Long-term memory, guardrails and a live dashboard around Claude Code, with adversarial multi-agent review before anything ships. Auto parts management system. Customers, vehicles, parts, stock and quotes for an auto parts store, down to the PDF quote the customer takes home. ECU scanner for a 1998 Chevrolet. Scanner and datalogger for an engine computer that predates OBD-II, speaking its native ALDL protocol through a serial bridge.">
+<title>Selected work: Health-benefits membership platform. CRM, member app for iOS and Android, partner portal and backend: billing, digital card, WhatsApp campaigns and reports for the whole company. AI engineering harness. Long-term memory, guardrails and a live dashboard around Claude Code, with adversarial multi-agent review before anything ships. Auto parts management system. Customers, vehicles, parts, stock and quotes for an auto parts store, down to the PDF quote the customer takes home. ECU scanner for a 1998 Chevrolet. Scanner and datalogger for an engine computer that predates OBD-II, speaking its native ALDL protocol through a serial bridge.</title>
+<style>
+  text { font-family: 'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',Arial,sans-serif; }
+  .mono { font-family: 'Cascadia Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  .num { font-variant-numeric: tabular-nums; }
+  
+</style>
+
+  <rect x=".5" y=".5" width="1199" height="651" rx="22" fill="#fbfbfb" stroke="#e3e3e3"/>
+  <text x="40" y="58" font-size="30" font-weight="700" letter-spacing="-.5" fill="#141414">Selected work</text>
+  <text x="258" y="58" font-size="18" fill="#6b6b6b">Private repositories, described without the confidential parts.</text>
+  
+    <g>
+      <rect x="40" y="92" width="552" height="252" rx="14" fill="#ffffff" stroke="#e3e3e3"/>
+      <circle cx="74" cy="133" r="5" fill="#0078d4"/>
+      <text x="88" y="141" font-size="22" font-weight="600" fill="#141414">Health-benefits membership platform</text>
+      <rect x="452" y="291" width="116" height="26" rx="13" fill="none" stroke="#0078d4" stroke-opacity=".55"/>
+      <text x="510" y="308" font-size="12" font-weight="600" fill="#0078d4" text-anchor="middle">In production</text>
+      <text x="68" y="182" font-size="18" fill="#6b6b6b">CRM, member app for iOS and Android, partner portal</text><text x="68" y="208" font-size="18" fill="#6b6b6b">and backend: billing, digital card, WhatsApp</text><text x="68" y="234" font-size="18" fill="#6b6b6b">campaigns and reports for the whole company.</text>
+      <rect x="68" y="288" width="66" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="101" y="309" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Vue 3</text><rect x="142" y="288" width="58" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="171" y="309" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Expo</text><rect x="207.6" y="288" width="91" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="253" y="309" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Supabase</text><rect x="306.8" y="288" width="58" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="336" y="309" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Deno</text>
+    </g>
+    <g>
+      <rect x="608" y="92" width="552" height="252" rx="14" fill="#ffffff" stroke="#e3e3e3"/>
+      <circle cx="642" cy="133" r="5" fill="#16a34a"/>
+      <text x="656" y="141" font-size="22" font-weight="600" fill="#141414">AI engineering harness</text>
+      <rect x="1028" y="291" width="108" height="26" rx="13" fill="none" stroke="#16a34a" stroke-opacity=".55"/>
+      <text x="1082" y="308" font-size="12" font-weight="600" fill="#16a34a" text-anchor="middle">Daily driver</text>
+      <text x="636" y="182" font-size="18" fill="#6b6b6b">Long-term memory, guardrails and a live dashboard</text><text x="636" y="208" font-size="18" fill="#6b6b6b">around Claude Code, with adversarial multi-agent</text><text x="636" y="234" font-size="18" fill="#6b6b6b">review before anything ships.</text>
+      <rect x="636" y="288" width="108" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="690" y="309" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">TypeScript</text><rect x="752" y="288" width="116" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="810" y="309" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Claude Code</text><rect x="876.4" y="288" width="74" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="914" y="309" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Ollama</text>
+    </g>
+    <g>
+      <rect x="40" y="360" width="552" height="252" rx="14" fill="#ffffff" stroke="#e3e3e3"/>
+      <circle cx="74" cy="401" r="5" fill="#c27803"/>
+      <text x="88" y="409" font-size="22" font-weight="600" fill="#141414">Auto parts management system</text>
+      <rect x="452" y="559" width="116" height="26" rx="13" fill="none" stroke="#c27803" stroke-opacity=".55"/>
+      <text x="510" y="576" font-size="12" font-weight="600" fill="#c27803" text-anchor="middle">In production</text>
+      <text x="68" y="450" font-size="18" fill="#6b6b6b">Customers, vehicles, parts, stock and quotes for an</text><text x="68" y="476" font-size="18" fill="#6b6b6b">auto parts store, down to the PDF quote the</text><text x="68" y="502" font-size="18" fill="#6b6b6b">customer takes home.</text>
+      <rect x="68" y="556" width="83" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="109" y="577" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Next.js</text><rect x="158.8" y="556" width="66" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="192" y="577" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">React</text><rect x="232.8" y="556" width="91" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="278" y="577" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Supabase</text><rect x="332" y="556" width="91" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="378" y="577" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Tailwind</text>
+    </g>
+    <g>
+      <rect x="608" y="360" width="552" height="252" rx="14" fill="#ffffff" stroke="#e3e3e3"/>
+      <circle cx="642" cy="401" r="5" fill="#dc2626"/>
+      <text x="656" y="409" font-size="22" font-weight="600" fill="#141414">ECU scanner for a 1998 Chevrolet</text>
+      <rect x="977" y="559" width="159" height="26" rx="13" fill="none" stroke="#dc2626" stroke-opacity=".55"/>
+      <text x="1057" y="576" font-size="12" font-weight="600" fill="#dc2626" text-anchor="middle">Reverse engineering</text>
+      <text x="636" y="450" font-size="18" fill="#6b6b6b">Scanner and datalogger for an engine computer that</text><text x="636" y="476" font-size="18" fill="#6b6b6b">predates OBD-II, speaking its native ALDL protocol</text><text x="636" y="502" font-size="18" fill="#6b6b6b">through a serial bridge.</text>
+      <rect x="636" y="556" width="58" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="665" y="577" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Expo</text><rect x="701.6" y="556" width="108" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="756" y="577" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">TypeScript</text><rect x="817.6" y="556" width="74" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="855" y="577" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">Serial</text><rect x="900" y="556" width="58" height="32" rx="6" fill="#fbfbfb" stroke="#e3e3e3"/>
+      <text x="929" y="577" font-size="15" fill="#3b3b3b" text-anchor="middle" class="mono">ALDL</text>
+    </g>
+</svg>
