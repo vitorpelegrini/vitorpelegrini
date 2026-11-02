@@ -46,13 +46,13 @@
     <text x="150" y="406" class="num" fill="#141414"><tspan font-size="24" font-weight="600">7,138</tspan><tspan font-size="14" fill="#6b6b6b" dx="6">contributions</tspan></text>
     <circle cx="154" cy="422" r="4" fill="#0078d4"/>
     <text x="340" y="378" font-size="13" font-weight="600" letter-spacing=".6" fill="#6b6b6b">ACTIVE DAYS</text>
-    <text x="340" y="406" class="num" fill="#141414"><tspan font-size="24" font-weight="600">210</tspan><tspan font-size="14" fill="#6b6b6b" dx="6">/ 365</tspan></text>
+    <text x="340" y="406" class="num" fill="#141414"><tspan font-size="24" font-weight="600">210</tspan><tspan font-size="14" fill="#6b6b6b" dx="6">/ 366</tspan></text>
     <rect x="340" y="419" width="150" height="6" rx="3" fill="#e6e6e6"/>
-         <rect x="340" y="419" width="86.3" height="6" rx="3" fill="#16a34a"/>
+         <rect x="340" y="419" width="86.1" height="6" rx="3" fill="#16a34a"/>
     <text x="530" y="378" font-size="13" font-weight="600" letter-spacing=".6" fill="#6b6b6b">STREAK</text>
-    <text x="530" y="406" class="num" fill="#141414"><tspan font-size="24" font-weight="600">41</tspan><tspan font-size="14" fill="#6b6b6b" dx="6">days / best 41</tspan></text>
+    <text x="530" y="406" class="num" fill="#141414"><tspan font-size="24" font-weight="600">0</tspan><tspan font-size="14" fill="#6b6b6b" dx="6">days / best 41</tspan></text>
     <rect x="530" y="419" width="170" height="6" rx="3" fill="#e6e6e6"/>
-         <rect x="530" y="419" width="170.0" height="6" rx="3" fill="#c27803"/>
+         <rect x="530" y="419" width="6.0" height="6" rx="3" fill="#c27803"/>
     <text x="740" y="378" font-size="13" font-weight="600" letter-spacing=".6" fill="#6b6b6b">BUSIEST DAY</text>
     <text x="740" y="406" class="num" fill="#141414"><tspan font-size="24" font-weight="600">296</tspan><tspan font-size="14" fill="#6b6b6b" dx="6">contributions</tspan></text>
     <circle cx="744" cy="422" r="4" fill="#db2777"/>

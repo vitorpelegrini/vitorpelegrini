@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=7179-41-210">
-  <img src="assets/header-light.svg?v=7179-41-210" alt="Vitor Pelegrini, software engineer and founder of VSync Lab. Full-stack and native software, from the database to the taskbar." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=7179-0-210">
+  <img src="assets/header-light.svg?v=7179-0-210" alt="Vitor Pelegrini, software engineer and founder of VSync Lab. Full-stack and native software, from the database to the taskbar." width="100%">
 </picture>
 
 <p align="center">
